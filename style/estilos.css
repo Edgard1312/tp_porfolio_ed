@@ -61,7 +61,7 @@ ul li:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('/img/teclado.webp'); 
+    background-image: url('img/teclado.webp'); 
     background-size: cover; 
     color: white;
     text-shadow:   
