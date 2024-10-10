@@ -1,0 +1,1 @@
+Hola profe, perdón por la demora. Mucho laburo y poco tiempo durante la semana. Lo hice así, sencillo. Espero ir mejorando. Hice algún curso de frontend pero lo cierto es que hay practicar mucho y el tiempo está en tu contra cuando estudiás y trabajás... Espero tener una devolución que me permita corregir algunas cosas que probablemente hice mal. Muchas gracias!!! 
